@@ -1,8 +1,8 @@
-# Tarea 3
+# Tarea 4
 
 ## Descripción
 
-Tarea 3 del modulo 2 del curso, es un sitio web para un hospital que posee las siguientes páginas, se adiciona SASS y Bootstrap para aplicar estilos al sitio:
+Tarea 4 del modulo 2 del curso, es un sitio web para un hospital que posee las siguientes páginas, se adiciona SASS y Bootstrap para aplicar estilos al sitio:
 
 1. index.html - página principal del sitio en donde se encuentra la bienvenida, servicios y testimonios de pacientes
 2. equipo-medico.html - página del equipo medico, posee la informacion de los médicos del hospital
