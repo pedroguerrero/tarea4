@@ -1,11 +1,5 @@
 @import '../utils/mixins';
 
-.welcome-section {
-  padding: 200px 0;
-  @include bg-img('../img/bg.jpg');
-  background-size: cover;
-}
-
 .contact-section {
   padding: 200px 0;
   @include bg-img('../img/bg-2.jpg');
